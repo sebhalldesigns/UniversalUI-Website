@@ -35,12 +35,11 @@ body {
 
 .NavigationIcon {
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 50pt;
-    height: 50pt;
+    top: 5pt;
+    left: 10pt;
+    width: 40pt;
+    height: 40pt;
     user-select: none;
-    interac
 }
 
 
