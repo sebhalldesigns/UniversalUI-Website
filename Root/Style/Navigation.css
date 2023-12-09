@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    font-family: "Inter", sans-serif;
+}
+
+.NavigationBar {
+
+    position: absolute;
+    width: 100%;
+    height: 50pt;
+    top: 0pt;
+    left: 0pt;
+    right: 0pt;
+
+    box-sizing: border-box;
+
+    background-color: #202020;
+    color: white;
+    font-size: 20pt;
+    padding-top: 12.5pt;
+    padding-left: 60pt;
+    user-select: none;
+}
+
+.NavigationItem {
+    text-decoration: none;
+    color: #808080;
+    font-size: 16pt;
+}
+
+.NavigationItem:hover {
+    color: #BBBBBB;
+
+}
+
+.NavigationIcon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50pt;
+    height: 50pt;
+    user-select: none;
+    interac
+}
+
+
+.NavigationMenu {
+    position: absolute;
+    top: 0pt;
+    right: 0pt;
+    height: 40pt;
+    padding-top: 12.5pt;
+    padding-right: 20pt;
+}
